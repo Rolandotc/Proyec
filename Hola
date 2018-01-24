@@ -1,0 +1,17 @@
+package Paquete;
+
+class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int var=5;
+		int var2=2;
+				
+		System.out.println("Hola Mundo");
+		if( (var==1) || (var2==2))
+		{
+		System.out.println("hola");
+		}
+		
+	}
+}
